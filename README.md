@@ -68,7 +68,6 @@ The dataset contains both normal and malicious activities such as:
 
 ## File Format
 - CSV format
-- UTF-8 encoding
 
 Example:
 ```csv

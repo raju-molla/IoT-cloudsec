@@ -1,0 +1,4 @@
+Metric,Value
+Balanced Accuracy,0.7439391445774108
+Matthews Correlation Coefficient,0.8315394829180379
+Macro AUPRC,0.758456465707455

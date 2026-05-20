@@ -1,0 +1,11 @@
+Encoded_Label,Attack_Class
+0,botnet_c2
+1,credential_theft
+2,data_tampering
+3,ddos
+4,jamming
+5,malware
+6,mqtt_flood
+7,normal
+8,replay_attack
+9,unauthorized_access

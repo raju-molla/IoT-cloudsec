@@ -1,0 +1,37 @@
+{
+    "dataset_name": "IoT-CloudSec",
+    "dataset_type": "Synthetic IoT-Cloud Cybersecurity Benchmark",
+    "dataset_rows": 71631,
+    "dataset_columns": 131,
+    "train_samples": 57304,
+    "test_samples": 14327,
+    "random_seed": 42,
+    "best_model": "LightGBM",
+    "classification_task": "Multiclass Intrusion Detection",
+    "num_attack_classes": 10,
+    "attack_classes": [
+        "botnet_c2",
+        "credential_theft",
+        "data_tampering",
+        "ddos",
+        "jamming",
+        "malware",
+        "mqtt_flood",
+        "normal",
+        "replay_attack",
+        "unauthorized_access"
+    ],
+    "macro_f1": 0.748112,
+    "weighted_f1": 0.944205,
+    "accuracy": 0.9457,
+    "timestamp": "2026-05-20 15:54:54.268904",
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "libraries": {
+        "pandas": "2.2.2",
+        "numpy": "2.0.2",
+        "scikit_learn": "1.6.1",
+        "xgboost": "3.2.0",
+        "lightgbm": "4.6.0"
+    }
+}

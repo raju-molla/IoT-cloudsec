@@ -1,0 +1,13 @@
+Component,Value
+Dataset,IoT-CloudSec
+Rows,71631
+Columns,131
+Random Seed,42
+Train Samples,57304
+Test Samples,14327
+Best Model,LightGBM
+Macro F1,0.748112
+Weighted F1,0.944205
+Accuracy,0.9457
+Python Version,3.12.13
+Platform,Linux-6.6.122+-x86_64-with-glibc2.35

@@ -1,0 +1,18 @@
+{
+    "rows": 71631,
+    "columns": 131,
+    "missing_values": 345365,
+    "duplicate_rows": 0,
+    "attack_distribution": {
+        "normal": 58749,
+        "unauthorized_access": 2176,
+        "mqtt_flood": 2142,
+        "ddos": 2141,
+        "malware": 1426,
+        "data_tampering": 1426,
+        "credential_theft": 1424,
+        "replay_attack": 722,
+        "jamming": 715,
+        "botnet_c2": 710
+    }
+}
